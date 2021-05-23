@@ -1,0 +1,9 @@
+{
+  "env": {
+    "DB_USER": "Abhi13027",
+    "DB_PASSWORD": "test1234",
+    "DB_NAME": "mernstack",
+    "GOOGLE_API_KEY": "AIzaSyCqQ06igKcHnrDH7OOgOD9A6mu8QwhL9fM",
+    "JWT_KEY": "dobara_mat_poochna"
+  }
+}
